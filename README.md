@@ -18,4 +18,4 @@ A simple and customizable toast notification built with HTML, CSS, and JavaScrip
 
 ## Project Features
 
-[Demo](./assets/ezgif.com-video-to-gif.gif)
+![Demo](./assets/ezgif.com-video-to-gif.gif)
